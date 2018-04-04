@@ -1,0 +1,16 @@
+{
+  
+  "expo": {
+    "name": "DayBack",
+    "icon": "./icon/dayback512.png",
+    "version": "1.0.0",
+    "slug": "dayback",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "cliente.dayback.com.br"
+    },
+    "android": {
+      "package": "cliente.dayback.com.br"
+    }
+   }
+}
